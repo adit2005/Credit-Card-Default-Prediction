@@ -1,9 +1,5 @@
 # Credit - Card - Default - Prediction
 
-- [Project_Link](https://wyhppmmpas.us-east-1.awsapprunner.com/)
-
-- [LinkedIn](https://www.linkedin.com/in/ritam33)
-  
 ## About The Project
 
 The Credit Card Default Prediction project is an end-to-end machine learning initiative designed to predict whether credit card holders will default on their payments in the next month. Financial threats are displaying a trend about the credit risk of commercial banks as the incredible improvement in the financial industry has arisen. In this way, one of the  biggest threats faces by commercial banks is the risk prediction of credit clients. The goal is to predict the probability of credit default based on credit card owner's characteristics and payment history.
@@ -122,27 +118,7 @@ This project requires Amazon Web Services Access Key ID and Secret Access Key fo
    - Store your AWS Access Key ID and Secret Access Key securely. Do not hardcode them directly in your code or expose them in public repositories. Instead, use environment variables or a configuration file to manage them securely.
 
 
-## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch
-3. Commit your Changes
-4. Push to the Branch
-5. Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-
-## Contact
-
-Ritam Rakshit - [ritamrakshit2022@gmail.com](ritamrakshit2022@gmail.com)
 
 
 ## Acknowledgements
